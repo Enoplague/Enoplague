@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enoplague
+- 👋 Hi, I’m @EnoPlague
 - 👀 I’m interested in coding, infosec.
 - 🌱 I’m currently learning JavaScript, Python, and Swift.
 
