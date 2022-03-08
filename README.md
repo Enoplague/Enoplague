@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enoplague
 - 👀 I’m interested in coding, infosec.
-- 🌱 I’m currently learning JavaScript, Python.
+- 🌱 I’m currently learning JavaScript, Python, and Swift.
 
 <!---
 Enoplague/Enoplague is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
